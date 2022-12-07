@@ -1,0 +1,17 @@
+/*PUBLICATION.php*/
+.general{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	background: lightgoldenrodyellow;
+	padding: 10;
+}
+.up{
+	size: 70%;
+	width: 400px;
+	height: 200px;
+}
+H2{	
+	align-items: center;
+	text-align: center;
+}

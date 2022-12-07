@@ -1,0 +1,16 @@
+.nav{
+    position: static;
+    top:16px;
+    margin-top: 10px;
+    font-size: 16px;
+}
+.deroulant{ 
+display: flex;
+align-items: flex-end;
+margin-left: 300px;
+margin-right: -100%;
+margin-bottom: 20px;
+float: left;
+font-size:18px;    
+}
+

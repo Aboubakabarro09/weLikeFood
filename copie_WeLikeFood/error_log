@@ -1,0 +1,652 @@
+[07-Dec-2022 12:27:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/upload.php on line 9
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:52:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:53:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 12:55:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:10:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/accueil_page.php on line 281
+[07-Dec-2022 13:10:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/accueil_page.php on line 318
+[07-Dec-2022 13:14:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/accueil_page.php on line 281
+[07-Dec-2022 13:14:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/accueil_page.php on line 318
+[07-Dec-2022 13:17:00 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:17:00 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:17:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:17:00 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:17:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:18:17 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:18:17 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:18:17 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:18:17 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:18:17 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:18:26 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:18:26 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:18:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:18:26 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:18:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:54:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:54:43 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:54:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:54:43 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:54:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:55:01 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:55:01 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:55:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:55:01 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:55:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:56:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 375
+[07-Dec-2022 13:56:43 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/comment.php on line 8
+[07-Dec-2022 13:56:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 375
+[07-Dec-2022 13:57:02 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 375
+[07-Dec-2022 13:57:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:57:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:57:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:58:00 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:58:00 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:58:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:58:00 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:58:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:58:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 13:58:28 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 13:58:28 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 13:58:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 13:58:28 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 13:58:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 374
+[07-Dec-2022 14:02:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:02:19 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:02:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:02:19 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:02:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 378
+[07-Dec-2022 14:03:06 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:03:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:03:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:03:06 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:03:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 378
+[07-Dec-2022 14:05:25 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:05:25 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:05:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:05:25 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:05:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:05:52 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:05:52 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:05:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:05:52 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:05:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:05:54 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:05:54 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:05:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:05:54 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:05:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:05:55 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:05:55 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:05:55 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:05:55 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:05:55 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:05:58 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:05:58 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:05:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:05:58 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:05:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:06:23 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:06:23 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:06:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:06:23 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:06:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:18:06 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 2
+[07-Dec-2022 14:18:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:18:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:18:06 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:18:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:21:00 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:21:00 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:21:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:21:00 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:21:00 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:21:08 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:21:08 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 5
+[07-Dec-2022 14:21:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 14:21:08 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:21:08 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 67
+[07-Dec-2022 14:21:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:25:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:25:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:27:36 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:27:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:32:32 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:32 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:33 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:33 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:33 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:33 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:36 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:37 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:37 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:37 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:37 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:38 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:38 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:32:44 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:44 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:45 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:45 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:45 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:45 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:46 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:46 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:51 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:52 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:52 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:52 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:52 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:53 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 14:32:53 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 14:32:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 14:34:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:37:44 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:39:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:40:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:40:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:41:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:42:36 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:43:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:43:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:43:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:43:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:43:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:44:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:46:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:46:33 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:46:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:46:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:47:17 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:47:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:48:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:48:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:49:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:50:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:50:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:50:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:50:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:50:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:51:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:51:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:31 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:52:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:53:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:54:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:54:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:54:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:54:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:55:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:55:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:55:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:55:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:55:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:56:44 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:56:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 14:56:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:06:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:10:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:10:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:10:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:10:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:11:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:11:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:12:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:12:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:12:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:12:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:12:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:13:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:14:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:15:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:15:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:15:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:15:31 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:16:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:16:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:17:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:18:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:18:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:19:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:21:39 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:21:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:21:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:08 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:22:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:23:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:24:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:24:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:24:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:25:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:27:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:27:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:28:16 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:28:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:28:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:28:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:28:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:06 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:29:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:31:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:31:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:31:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:32:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:33:19 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:33:52 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:33:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:34:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:34:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:35:13 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:18 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:19 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:20 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:21 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:21 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:22 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:22 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:23 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:35:23 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:35:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:35:44 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:36:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:36:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:36:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:36:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:38:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:38:10 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:10 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:11 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:13 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:38:29 Europe/London] PHP Notice:  Undefined index: id in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 3
+[07-Dec-2022 15:38:31 Europe/London] PHP Notice:  Undefined index: id in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 3
+[07-Dec-2022 15:38:32 Europe/London] PHP Notice:  Undefined index: id in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 3
+[07-Dec-2022 15:38:36 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:38:39 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:39 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:39 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:39 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:38:40 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:38:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:41:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:41:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:41:54 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:41:54 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:41:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 7
+[07-Dec-2022 15:41:54 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:41:54 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:41:54 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:10 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:10 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 7
+[07-Dec-2022 15:42:10 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:10 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:11 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:11 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 7
+[07-Dec-2022 15:42:11 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:11 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:12 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:42:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 7
+[07-Dec-2022 15:42:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:12 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:42:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:25 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:25 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:26 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:28 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:30 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:33 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:34 Europe/London] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 2
+[07-Dec-2022 15:42:34 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 10
+[07-Dec-2022 15:42:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:49:50 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:49:50 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 6
+[07-Dec-2022 15:49:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 7
+[07-Dec-2022 15:49:50 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:49:50 Europe/London] PHP Warning:  mysqli_close() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 65
+[07-Dec-2022 15:49:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:51:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:51:06 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:06 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:06 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:07 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:51:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:51:11 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:11 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Notice:  Undefined variable: con in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:12 Europe/London] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/spcom/public_html/barro/copie_WeLikeFood/update_count.php on line 11
+[07-Dec-2022 15:51:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:34 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:55 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:52:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:55:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:55:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:56:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:56:13 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:56:48 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 15:57:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:15:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:16:07 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:16:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:16:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:17:34 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:17:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:33:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:37:44 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 382
+[07-Dec-2022 16:41:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:41:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:44:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:44:17 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:45:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:45:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:47:25 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:47:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:47:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:48:38 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:48:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:24 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:25 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:25 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:27 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:49:29 Europe/London] PHP Warning:  Use of undefined constant nbsp - assumed 'nbsp' (this will throw an Error in a future version of PHP) in /home/spcom/public_html/barro/copie_WeLikeFood/action.php on line 53
+[07-Dec-2022 16:49:29 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:53:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:54:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:55:35 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:55:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:55:37 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:55:38 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:56:04 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:56:05 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:56:53 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:43 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:45 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:46 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:57:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:11 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:58:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:59:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:59:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:59:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 16:59:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:00:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:00:00 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:01:27 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:01:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:02:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:02:32 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:04:09 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:04:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:04:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:04:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:03 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:20 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:22 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:05:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:13 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:15 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:26 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:51 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:06:59 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:07:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:08:01 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:08:49 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:08:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:08:50 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:09:41 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:09:42 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:09:57 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:09:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:09:58 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:10:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:10:25 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:10:39 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:10:40 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:11:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:12:10 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:12:12 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:12:14 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:12:18 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:12:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:21 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:23 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:24 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:47 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
+[07-Dec-2022 17:13:56 Europe/London] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, bool given in /home/spcom/public_html/barro/copie_WeLikeFood/formulaire1.php on line 379
